@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Structure</title>
+  </head>
+  <body>
+    <!-- Header Section Start ✔✔✔ -->
+
+    <!-- Navigation menu Start ✔✔✔ -->
+
+    <!-- Navigation menu End ✔✔✔ -->
+
+    <!-- Header Section End ✔✔✔ -->
+
+    <!-- Carousel Start ✔✔✔ -->
+
+    <!-- Carousel End ✔✔✔ -->
+
+    <!-- Start Service Section ✔✔✔ -->
+
+    <!-- End Service Section ✔✔✔ -->
+
+    <!-- Start Gallery Section -->
+
+    <!-- End Gallery Section -->
+
+    <!-- Start Testimonial Section ✔✔✔ -->
+
+    <!-- End Testimonial Section ✔✔✔ -->
+
+    <!-- Start About Section ✔✔✔ -->
+
+    <!-- Start Team Section ✔✔✔ -->
+
+    <!-- End Team Section ✔✔✔ -->
+
+    <!-- End About Section ✔✔✔ -->
+
+    <!-- Start Package Section ✔✔✔ -->
+
+    <!-- End Package Section ✔✔✔ -->
+
+    <!-- Footer Section Start ✔✔✔ -->
+
+    <!-- Footer Section End ✔✔✔ -->
+  </body>
+</html>
