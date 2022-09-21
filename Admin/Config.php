@@ -22,4 +22,7 @@ $userresult = mysqli_query($conn, $usersdisplay);
 $commentdisplay = "SELECT * FROM testimonial";
 $commentresult = mysqli_query($conn, $commentdisplay);
 
+$appointmentsdisplay = "SELECT * FROM appointment";
+$appointmentsresult = mysqli_query($conn, $appointmentsdisplay);
+
 ?>
