@@ -16,9 +16,13 @@
 
       <?php include 'navbar.php'; ?>
       
-      <!-- <?php include 'ViewTeam.php'; ?> -->
+      <h1 style="text-align:center;">Appointments</h1>
 
-      <?php include 'users.php'; ?>
-    
+      <?php include 'appointments.php'; ?>
+
+      <br>
+      <br>
+      <br>
+      
   </body>
 </html>
