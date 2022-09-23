@@ -27,7 +27,7 @@
     <li><a href="Testimonial-Copy.php" class="nav-link">Testimonial</a></li>
     <li><a href="About-Copy.php" class="nav-link">about</a></li>
     <li><a href="Package-Copy.php" class="nav-link">package</a></li>
-    <li><a href="#" class="nav-link"><?php echo "Hi, " . $_SESSION['username'] . ""; ?></a></li>
+    <li><a href="Profile.php" class="nav-link"><?php echo "Hi, " . $_SESSION['username'] . ""; ?></a></li>
     <!-- image print karava mate -->
     <!-- <li><a href="#" class="nav-link">
       <div class="testimonials-img">
