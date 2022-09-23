@@ -22,7 +22,7 @@
                   <div class="service-text text-center">
                     <h4 class="text-white font-weight-medium px-3"><?php echo $servicerow1['service_name']; ?></h4>
                     <div class="w-100 bg-white text-center p-4">
-                      <a class="btn btn-primary" href="">Make Order</a>
+                      <a class="btn btn-primary" href="..\Appointment.php">Make Order</a>
                     </div>
                   </div>
                 </div>
@@ -49,7 +49,7 @@
                   <div class="service-text text-center">
                     <h4 class="text-white font-weight-medium px-3"><?php echo $servicerow2['service_name']; ?></h4>
                     <div class="w-100 bg-white text-center p-4">
-                      <a class="btn btn-primary" href="">Make Order</a>
+                      <a class="btn btn-primary" href="..\Appointment.php">Make Order</a>
                     </div>
                   </div>
                 </div>
@@ -76,7 +76,7 @@
                 <div class="service-text text-center">
                   <h4 class="text-white font-weight-medium px-3"><?php echo $servicerow3['service_name']; ?></h4>
                   <div class="w-100 bg-white text-center p-4">
-                    <a class="btn btn-primary" href="">Make Order</a>
+                    <a class="btn btn-primary" href="..\Appointment.php">Make Order</a>
                   </div>
                 </div>
               </div>
