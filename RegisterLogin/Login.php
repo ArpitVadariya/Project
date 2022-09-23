@@ -21,7 +21,10 @@ if (isset($_POST['submit'])) {
 		$row = mysqli_fetch_assoc($result);
 		$_SESSION['username'] = $row['username'];
 		$_SESSION['imagepath'] = $row['imagepath'];
-		header("Location: ../Pages/index.php");
+		$_SESSION['email'] = $row['email'];
+		echo "<script>alert('Login Successfull.')</script>";
+		echo '<script> window.location.href="../Pages/index.php"; </script>';
+		// header("Location: ../Pages/index.php");
 	} else {
 		echo "<script>alert('Woops! Email or Password is Wrong.')</script>";
 	}

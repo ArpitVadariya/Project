@@ -42,7 +42,8 @@ if (isset($_POST['submit'])) {
 				$imgresult = mysqli_query($conn, $imginsert);
 				if ($imgresult) {
 					echo "<script>alert('Wow! User Registration Completed.')</script>";
-					header("Location: Login.php");
+					echo '<script> window.location.href="Login.php"; </script>';
+					// header("Location: Login.php");
 					$username = "";
 					$email = "";
 					$_POST['password'] = "";
